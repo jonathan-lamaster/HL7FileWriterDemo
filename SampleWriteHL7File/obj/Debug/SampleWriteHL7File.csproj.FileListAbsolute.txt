@@ -1,0 +1,17 @@
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\bin\Debug\SampleWriteHL7File.exe.config
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\bin\Debug\SampleWriteHL7File.exe
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\bin\Debug\SampleWriteHL7File.pdb
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\bin\Debug\NHapi.Base.dll
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\bin\Debug\NHapi.Model.V21.dll
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\bin\Debug\NHapi.Model.V22.dll
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\bin\Debug\NHapi.Model.V23.dll
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\bin\Debug\NHapi.Model.V231.dll
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\bin\Debug\NHapi.Model.V24.dll
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\bin\Debug\NHapi.Model.V25.dll
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\bin\Debug\NHapi.Model.V251.dll
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\obj\Debug\SampleWriteHL7File.csprojResolveAssemblyReference.cache
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\obj\Debug\SampleWriteHL7File.Form1.resources
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\obj\Debug\SampleWriteHL7File.Properties.Resources.resources
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\obj\Debug\SampleWriteHL7File.csproj.GenerateResource.Cache
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\obj\Debug\SampleWriteHL7File.exe
+c:\users\jlamaster\documents\visual studio 2013\Projects\SampleWriteHL7File\SampleWriteHL7File\obj\Debug\SampleWriteHL7File.pdb
